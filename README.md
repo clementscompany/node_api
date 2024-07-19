@@ -46,13 +46,13 @@ http://localhost:3000/
 #resposta
 
 {
-	"response": [
-		{
-			"id": 10,
-			"email": "Novo Moiseddds",
-			"username": "488721wilsssliam@"
-		}
-	]
+"response": [
+	{
+		"id": 10,
+		"email": "Novo Moiseddds",
+		"username": "488721wilsssliam@"
+	}
+]
 }
 
 ```
