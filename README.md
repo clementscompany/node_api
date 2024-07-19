@@ -2,14 +2,14 @@
 
 `.env `
 - crie na raiz do projeto 
-
+```sh
 PORT=3000
 DB_HOST=localhost
 DB_USERNAME=root
 DB_PORT=3306
 DB_PASSWORD=''
 DB_NAME=node_db
-
+```
 
 
 # instalar o pacote node_modules
